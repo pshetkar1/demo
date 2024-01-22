@@ -10,7 +10,7 @@ public class DemoApplication {
 	
 	@GetMappping("/message")
 	public String getMessage() {
-		return "Welcome to Dockers Integration With Jenkins. Change 1";
+		return "Welcome to Dockers Integration With Jenkins. Change 2";
 		
 	}
 	
